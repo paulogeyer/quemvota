@@ -51,7 +51,7 @@ GENEROS = (
     (F, "Feminino"),
 )
 
-SITUACAO = (
+SITUACOES = (
     ("P", "Parlamentar"),
     ("C", "Candidato")
     )
